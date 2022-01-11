@@ -13,3 +13,4 @@ spring:
           search-paths:
             - 'hireme-users*'
             - 'hireme-api-gateway*'
+            - 'hireme-companies*'
