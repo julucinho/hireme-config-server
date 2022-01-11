@@ -12,3 +12,4 @@ spring:
           default-label: main
           search-paths:
             - 'hireme-users*'
+            - 'hireme-api-gateway*'
