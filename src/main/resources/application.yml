@@ -14,3 +14,4 @@ spring:
             - 'hireme-users*'
             - 'hireme-api-gateway*'
             - 'hireme-companies*'
+            - 'hireme-skills*'
